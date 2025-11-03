@@ -1,0 +1,6 @@
+onnxruntime==1.19.0
+opencv-python==4.10.0
+numpy==2.0.0
+pillow==10.4.0
+paho-mqtt==2.1.0
+adafruit-circuitpython-ssd1306
